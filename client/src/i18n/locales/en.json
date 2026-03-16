@@ -1,0 +1,89 @@
+{
+  "nav": {
+    "home": "Home", "activities": "Activities", "progress": "Progress",
+    "projects": "Projects", "news": "News", "map": "Map", "contact": "Contact",
+    "about": "About Us", "services": "Services", "seminar": "Seminars"
+  },
+  "hero": {
+    "title": "Clean energy for sustainable future",
+    "subtitle": "We work on developing and implementing clean energy solutions in Tajikistan. Join us to make living conditions better.",
+    "btn_projects": "Our projects", "btn_timeline": "Progress Timeline",
+    "stat_projects": "Completed projects", "stat_capacity": "Total capacity", "stat_families": "Beneficiary families"
+  },
+  "features": {
+    "title": "Our activities",
+    "solar_title": "Photovoltaic systems construction",
+    "solar_desc": "Development and installation of solar power systems for homes, businesses and government institutions",
+    "biogas_title": "Biogas energy utilization",
+    "biogas_desc": "Research and implementation of new biogas utilization technologies in Tajikistan's mountainous conditions",
+    "consulting_title": "Efficiency consulting",
+    "consulting_desc": "Offering efficient solutions to reduce energy consumption in businesses and homes",
+    "programming_title": "Programming team",
+    "programming_desc": "We provide innovative digital solutions for complex economic and social problems",
+    "innovation_title": "Ecological innovations",
+    "innovation_desc": "Development and implementation of advanced technologies for sustainable country development",
+    "learn_more": "Learn more"
+  },
+  "timeline": {
+    "title": "Our year-by-year progress", "subtitle": "Our evolution and development from 2021 to present",
+    "2021_title": "2021 - Foundation year", "2021_desc": "Organization establishment and implementation of first projects in regions",
+    "2022_title": "2022 - Regional expansion", "2022_desc": "Expanding activities to Sughd and Khatlon regions",
+    "2023_title": "2023 - Digitalization", "2023_desc": "Implementation of digital technologies and online project management systems",
+    "2024_title": "2024 - National expansion", "2024_desc": "Operations in all regions and districts of the country",
+    "2025_title": "2025 - International expansion", "2025_desc": "Implementation of first projects in Uzbekistan and Afghanistan"
+  },
+  "projects": {
+    "title": "Recent projects", "subtitle": "Development and implementation of our projects throughout Tajikistan",
+    "all": "All", "solar": "Solar energy", "energy": "Energy", "education": "Educational",
+    "view_all": "All projects", "read_more": "Learn more"
+  },
+  "map": {
+    "title": "Our projects on the map", "subtitle": "Locations of our implemented projects across Tajikistan",
+    "solar": "Solar energy", "wind": "Wind energy", "energy": "Energy", "education": "Educational",
+    "project_type": "Project type"
+  },
+  "news": {
+    "title": "News", "subtitle": "Our latest news and events",
+    "all": "All", "project_update": "Project update", "seminar": "Seminar", "announcement": "Announcement",
+    "read_more": "Read more", "watch_video": "Watch video", "published": "Published"
+  },
+  "about": {
+    "title": "About Us", "subtitle": "Clean energy NGO",
+    "description": "\"Nerui Toza\" is a non-governmental organization working on clean energy and environmental technologies in Tajikistan.",
+    "mission_title": "Our Mission", "vision_title": "Our Vision",
+    "team_title": "Our Team", "partners_title": "Our Partners"
+  },
+  "services": { "title": "Our Services", "subtitle": "Comprehensive clean energy solutions" },
+  "contact": {
+    "title": "Contact", "subtitle": "Get in touch with us",
+    "name": "Full Name", "email": "Email Address", "phone": "Phone Number",
+    "subject": "Subject", "message": "Message", "send": "Send Message",
+    "success": "Your message was sent successfully!", "error": "An error occurred. Please try again.",
+    "address": "Address", "phone_label": "Phone", "email_label": "Email", "hours": "Working Hours",
+    "subject_general": "General inquiry", "subject_project": "Project", "subject_service": "Service",
+    "subject_partnership": "Partnership", "subject_other": "Other"
+  },
+  "seminar": {
+    "title": "Seminars & Trainings", "subtitle": "Education and human capacity development",
+    "upcoming": "Upcoming", "past": "Past", "register": "Register"
+  },
+  "footer": {
+    "about_text": "\"Nerui Toza\" is a non-governmental organization working on clean energy in Tajikistan.",
+    "links": "Links", "services": "Services", "contact": "Contact",
+    "solar": "Solar Energy", "biogas": "Biogas", "efficiency": "Energy Efficiency", "consulting": "Consultations",
+    "copyright": "© 2025 \"Nerui Toza\". All rights reserved.",
+    "developer": "Developer: Ismatov Anushervon Rahmatulloevich"
+  },
+  "common": {
+    "loading": "Loading...", "error": "An error occurred", "not_found": "Not found", "back": "Back",
+    "save": "Save", "cancel": "Cancel", "delete": "Delete", "edit": "Edit",
+    "add": "Add", "search": "Search", "yes": "Yes", "no": "No", "confirm_delete": "Are you sure you want to delete?"
+  },
+  "admin": {
+    "dashboard": "Dashboard", "projects": "Projects", "news": "News", "services": "Services",
+    "team": "Team", "seminars": "Seminars", "contacts": "Contacts", "map": "Map", "settings": "Settings",
+    "logout": "Logout", "login": "Login", "username": "Username", "password": "Password",
+    "login_btn": "Sign In", "unread": "Unread", "total": "Total", "published": "Published",
+    "draft": "Draft", "publish": "Publish", "new_password": "New Password", "current_password": "Current Password"
+  }
+}
