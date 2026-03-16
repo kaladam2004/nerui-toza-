@@ -2,6 +2,10 @@
   "name": "nerui-toza-app",
   "version": "1.0.0",
   "private": true,
+  "workspaces": [
+    "server",
+    "client"
+  ],
   "scripts": {
     "dev": "concurrently --kill-others-on-fail --prefix-colors \"bgGreen.bold,bgBlue.bold\" --names \"SERVER,CLIENT\" \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
     "build": "npm run build --prefix server && npm run build --prefix client",
