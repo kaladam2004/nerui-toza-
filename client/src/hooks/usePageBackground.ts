@@ -2,14 +2,12 @@ import { useQuery } from '@tanstack/react-query';
 import api from './useApi';
 import type { PageBackground } from '../types';
 
-let allBgCache: PageBackground[] | null = null;
 
 export function usePageBackground(pageKey: string) {
   const { data } = useQuery<PageBackground[]>({
     queryKey: ['page-backgrounds'],
     queryFn: async () => {
       const r = await api.get('/page-backgrounds');
-      allBgCache = r.data;
       return r.data;
     },
     staleTime: 1000 * 60 * 5,

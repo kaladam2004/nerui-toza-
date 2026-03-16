@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query';
+import { useQuery, useQueryClient } from '@tanstack/react-query';
 import api from '../../hooks/useApi';
 import type { PageBackground } from '../../types';
 import { AdminStyles } from './NewsAdmin';

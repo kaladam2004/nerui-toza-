@@ -1,7 +1,7 @@
 import { useTranslation } from 'react-i18next';
 import { useQuery } from '@tanstack/react-query';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCalendar, faMapMarkerAlt, faClock } from '@fortawesome/free-solid-svg-icons';
+import { faCalendar, faMapMarkerAlt } from '@fortawesome/free-solid-svg-icons';
 import api from '../hooks/useApi';
 import type { Seminar } from '../types';
 
